@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="msg1">Hello, Amoda</string>
+    <string name="msg2">Dynamically Generated</string>
+</resources>
