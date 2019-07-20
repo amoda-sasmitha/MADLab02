@@ -32,4 +32,16 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         app:layout_constraintVertical_bias="0.038" />
 
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btn1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.303" />
+
+
 </android.support.constraint.ConstraintLayout>
